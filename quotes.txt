@@ -13,5 +13,3 @@ Why don't programmers like to go outside? The sunlight causes too many reflectio
 Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat.
 Why do programmers prefer dark chocolate? Because it's byte-sized!
 Why did the programmer bring a ladder to the bar? They heard the drinks were on the house.
-Test de la fonction add_quote
-Test new inputs
