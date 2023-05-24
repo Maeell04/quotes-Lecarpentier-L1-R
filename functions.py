@@ -20,3 +20,8 @@ def print_quote(quote):
 def view_quotes(quotes):
     for quote in quotes:
         print_quote(quote)
+
+def add_quote(new_quote, quotes, filename):
+    quotes.append(new_quote)
+    with open(filename, 'a') as file:
+        file.write('\n' + new_quote)
